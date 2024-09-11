@@ -1,0 +1,157 @@
+[56:03:09 19-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [1049] Unknown database 'quanlythuviensss'
+[08:08:09 19-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [1049] Unknown database 'quanlythuviensss'
+[42:08:09 19-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [1049] Unknown database 'quanlythuviensss'
+[44:08:09 19-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [1049] Unknown database 'quanlythuviensss'
+[45:08:09 19-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [1049] Unknown database 'quanlythuviensss'
+[23:26:00 21-07-2024] Lỗi đăng nhập: Sai mật khẩu.
+[12:50:00 21-07-2024] Lỗi đăng nhập: Sai mật khẩu.
+[01:02:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[51:02:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[01:03:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[09:03:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[08:04:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[54:04:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[45:06:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[49:08:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[59:09:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[55:10:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[07:11:01 21-07-2024] Lỗi đăng nhập: Sai mật khẩu.
+[31:13:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[30:14:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[50:14:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[05:21:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[06:24:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[20:24:01 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[23:23:02 21-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[43:22:16 25-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[12:35:16 25-07-2024] Lỗi thêm đầu sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`dausach`, CONSTRAINT `dausach_ibfk_2` FOREIGN KEY (`id_tacgia`) REFERENCES `tacgia` (`Id`))
+[12:35:16 25-07-2024] Lỗi khi thêm sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`sach`, CONSTRAINT `sach_ibfk_2` FOREIGN KEY (`Id_DauSach`) REFERENCES `dausach` (`Id`))
+[33:37:16 25-07-2024] Lỗi thêm đầu sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`dausach`, CONSTRAINT `dausach_ibfk_2` FOREIGN KEY (`id_tacgia`) REFERENCES `tacgia` (`Id`))
+[33:37:16 25-07-2024] Lỗi khi thêm sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`sach`, CONSTRAINT `sach_ibfk_2` FOREIGN KEY (`Id_DauSach`) REFERENCES `dausach` (`Id`))
+[27:38:16 25-07-2024] Lỗi thêm đầu sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`dausach`, CONSTRAINT `dausach_ibfk_2` FOREIGN KEY (`id_tacgia`) REFERENCES `tacgia` (`Id`))
+[28:38:16 25-07-2024] Lỗi khi thêm sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`sach`, CONSTRAINT `sach_ibfk_2` FOREIGN KEY (`Id_DauSach`) REFERENCES `dausach` (`Id`))
+[01:39:16 25-07-2024] Lỗi thêm đầu sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`dausach`, CONSTRAINT `dausach_ibfk_2` FOREIGN KEY (`id_tacgia`) REFERENCES `tacgia` (`Id`))
+[01:39:16 25-07-2024] Lỗi khi thêm sách: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quanlythuvien`.`sach`, CONSTRAINT `sach_ibfk_2` FOREIGN KEY (`Id_DauSach`) REFERENCES `dausach` (`Id`))
+[37:27:17 25-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[12:53:17 25-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[41:28:04 26-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[38:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[39:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[39:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[41:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[45:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[46:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[46:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[50:34:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tacgia.Ho' in 'field list'
+[59:35:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[00:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[01:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[03:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[04:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[05:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[05:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[05:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[06:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[07:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[08:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[08:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[08:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[08:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[08:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[09:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[10:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[10:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[11:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[14:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[14:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[15:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[16:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[29:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[30:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[34:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[34:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[41:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[42:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[42:36:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[29:37:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[29:37:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[35:37:04 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nhaxuatban.TenNXB' in 'field list'
+[29:47:04 26-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[47:51:04 26-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[27:54:04 26-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[23:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%c%'
+        GROUP BY sach.Id' at line 11
+[26:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%ca%'
+        GROUP BY sach.Id' at line 11
+[27:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%cam%'
+        GROUP BY sach.Id' at line 11
+[27:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%camu%'
+        GROUP BY sach.Id' at line 11
+[28:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%camus%'
+        GROUP BY sach.Id' at line 11
+[29:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%camu%'
+        GROUP BY sach.Id' at line 11
+[30:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%cam%'
+        GROUP BY sach.Id' at line 11
+[30:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%ca%'
+        GROUP BY sach.Id' at line 11
+[30:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%c%'
+        GROUP BY sach.Id' at line 11
+[31:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%a%'
+        GROUP BY sach.Id' at line 11
+[31:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'tacgia.Ho LIKE '%ab%'
+        GROUP BY sach.Id' at line 11
+[43:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image_sach.Url' in 'field list'
+[44:03:16 26-07-2024] Lỗi khi tìm kiếm sách: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image_sach.Url' in 'field list'
+[54:27:12 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[03:32:12 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[03:32:12 27-07-2024] Lỗi đăng nhập: Sai mật khẩu.
+[13:32:12 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[50:10:21 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[17:37:21 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[48:07:22 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[12:12:22 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[36:32:22 27-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[52:44:02 28-07-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12:50:02 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[48:50:02 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[59:20:06 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[29:23:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[05:43:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[05:43:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[20:43:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[20:43:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[43:43:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[43:43:19 28-07-2024] Lỗi đăng nhập: Sai mật khẩu.
+[54:44:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[19:45:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[02:46:19 28-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[15:44:12 29-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[07:46:22 29-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[48:35:09 31-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[06:29:19 31-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[14:46:23 31-07-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[36:42:17 01-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[24:28:20 01-08-2024] Lỗi khi lấy thông tin thẻ thư viện theo IdSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'Id' in where clause is ambiguous
+[38:28:20 01-08-2024] Lỗi khi lấy thông tin thẻ thư viện theo IdSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'Id' in where clause is ambiguous
+[55:28:20 01-08-2024] Lỗi khi lấy thông tin thẻ thư viện theo IdSQLSTATE[23000]: Integrity constraint violation: 1052 Column 'Id' in where clause is ambiguous
+[49:10:08 03-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[28:43:07 04-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[22:38:13 04-08-2024] Không có kết nối Internet.
+[48:39:13 04-08-2024] Không có kết nối Internet.
+[20:48:07 09-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[29:35:13 10-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[14:23:03 11-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[05:34:20 11-08-2024] Lỗi kết nối cơ sở dữ liệu: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[10:20:15 13-08-2024] Không có kết nối Internet.
+[25:21:15 13-08-2024] Không có kết nối Internet.
+[29:13:18 13-08-2024] Không có kết nối Internet.
+[38:13:18 13-08-2024] Không có kết nối Internet.
+[41:13:18 13-08-2024] Không có kết nối Internet.
+[51:13:18 13-08-2024] Không có kết nối Internet.
+[39:14:18 13-08-2024] Không có kết nối Internet.
+[02:15:18 13-08-2024] Không có kết nối Internet.
+[10:30:05 14-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[10:30:05 14-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[31:34:05 14-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.
+[52:34:05 14-08-2024] Lỗi đăng nhập: Tài khoản không tồn tại.

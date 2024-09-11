@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+form {
+    margin-bottom: 2rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.carousel-item {
+    transition: opacity 0.5s ease-in-out;
+}
+.carousel-item.hidden {
+    opacity: 0;
+}
+.carousel-item.active {
+    opacity: 1;
+}
+.blurred {
+    filter: blur(4px);
+}
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 40;
+}
+
+.notification {
+    z-index: 1000;
+    max-width: 90%;
+}
+.notification .icon {
+    font-size: 1.5rem;
+}
+.notification .message {
+    font-size: 1rem;
+}
+.fade-in {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+.fade-in.show {
+    opacity: 1;
+}
+
+.hidden {
+    display: none;
+}
+
+
+@keyframes ripple {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(4);
+        opacity: 0;
+    }
+}
+
+.neon-ripple {
+    background: radial-gradient(circle, rgba(59, 130, 246, 0.6) 0%, rgba(29, 78, 216, 0.6) 100%);
+    animation: ripple 1s ease-out infinite;
+}
+
+
+
+@media (max-width: 768px) {
+    #searchResults {
+        max-height: 400px;
+        overflow-y: auto;
+    }
+    .search-table {
+        min-width: 600px;
+        width: max-content;
+    }
+}
+
+
